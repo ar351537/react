@@ -1,0 +1,10 @@
+{
+  "env": {
+    "production": {
+      "plugins": ["transform-react-constant-elements"]
+    }
+  }
+},
+{
+  "presets": ["env","react"]
+}
